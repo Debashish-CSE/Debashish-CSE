@@ -18,7 +18,7 @@ Feel free to explore, contribute, or provide feedback on any of the projects you
 
 ###
 
-## <h3 align="center">Things I Currently Know And Learnning</h3>
+## <h3 align="center">Things I Currently Know And Learning</h3>
 
 ###
 
