@@ -1,7 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Great+Vibes&size=40&center=true&vCenter=true&width=800&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Debashish+Chakraborty!;" />
 </h1>
-</br>
 
 ###
 
@@ -46,6 +45,7 @@ Feel free to explore, contribute, or provide feedback on any of the projects you
   <img width="12" />
 
 </div>
+</br>
 
 ###
 
@@ -55,8 +55,11 @@ Feel free to explore, contribute, or provide feedback on any of the projects you
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Debashish-CSE&theme=dark" alt="GitHub Streak" /></a>
+    <br>
+  <a><img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Debashish-CSE&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /></a>
 </div>
-
+</br>
+    
 ###
 
 
