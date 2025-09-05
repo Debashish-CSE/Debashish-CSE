@@ -22,28 +22,48 @@ Feel free to explore, contribute, or provide feedback on any of the projects you
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="sql logo"  />
-  <img width="12" />
 
+<div align="center">
+  <a href="https://cplusplus.com/doc/tutorial/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="sql logo"  />
+  </a>
+  <img width="12" />
 </div>
 </br>
 
