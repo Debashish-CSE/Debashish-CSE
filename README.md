@@ -1,6 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Great+Vibes&size=40&center=true&vCenter=true&width=800&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Debashish+Chakraborty!;" />
 </h1>
+</br>
 
 ###
 
