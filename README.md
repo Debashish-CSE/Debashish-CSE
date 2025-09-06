@@ -85,7 +85,15 @@ Feel free to explore, contribute, or provide feedback on any of the projects you
 
 ## <h3 align="center">  You can reach me here:</h3>
 
-
+<p align="center">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=debashish.csecu@gmail.com" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="30" width="40" />
+</a>
+<a href="https://www.facebook.com/debashish.chakraborty.148116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="debashish" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_debashish.392_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debashish" height="30" width="40" /></a>
+<a href="https://x.com/debashish_cs" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="debashish" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/debashish-chakraborty-331859368/" target="blank"><img align="center" src="https://icons.veryicon.com/png/o/internet--web/common-social-site-icons-for-the-web/linkedin-90.png" alt="linkedin" height="30" width="40" /></a>
+</p>
 
 
 ###
