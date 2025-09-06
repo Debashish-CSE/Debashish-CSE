@@ -8,7 +8,7 @@
 
 
 <div align="center">
-I'm a passionate computer science undergraduate with a strong enthusiasm for machine learning, artificial intelligence, and natural language processing. My interests also extend to cybersecurity and algorithms, and I'm always keen to explore new technologies and challenges. 
+I'm a passionate computer science student with a strong enthusiasm for machine learning, artificial intelligence, and natural language processing. My interests also extend to cybersecurity and algorithms, and I'm always keen to explore new technologies and challenges. 
 <br>
 On this GitHub profile, you'll find a personal collection of my coding exercises, assignments, and projects completed during my university studies. Data visualization projects showcasing analytical techniques and insights, as well as LaTeX resources for academic and technical writing. Additionally, my repositories feature various software development and algorithmic projects, including prototypes and research explorations.
 
@@ -60,10 +60,7 @@ Feel free to explore, contribute, or provide feedback on any of the projects you
     <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   </a>
   <img width="12" />
-  <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="sql logo"  />
-  </a>
-  <img width="12" />
+
 </div>
 </br>
 
