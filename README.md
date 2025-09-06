@@ -61,7 +61,7 @@ Feel free to explore, contribute, or provide feedback on any of the projects you
   </a>
   <img width="12" />
   <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="sql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo"  />
   </a>
   <img width="12" />
 </div>
