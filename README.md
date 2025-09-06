@@ -60,7 +60,10 @@ Feel free to explore, contribute, or provide feedback on any of the projects you
     <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   </a>
   <img width="12" />
-
+  <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="sql logo"  />
+  </a>
+  <img width="12" />
 </div>
 </br>
 
