@@ -8,7 +8,7 @@
 
 
 <div align="center">
-I'm a Computer Science student with a strong enthusiasm for Machine Learning, Artificial Intelligence, and Natural Language Processing. My interests also extend to Cybersecurity and Robotics.On this GitHub profile, you'll find a personal collection of my coding exercises, assignments, and projects completed during my university studies. Data visualization projects showcasing analytical techniques and insights, as well as LaTeX resources for academic and technical writing. Additionally, my repositories feature various machine learning, software development projects, including prototypes and research explorations.
+I'm a Computer Science student with a strong enthusiasm for Machine Learning, Artificial Intelligence, and Natural Language Processing. My interests also extend to Cybersecurity and Robotics. On this GitHub profile, you'll find a personal collection of my coding exercises, assignments, and projects completed during my university studies. Data visualization projects showcasing analytical techniques and insights, as well as LaTeX resources for academic and technical writing. Additionally, my repositories feature various machine learning, software development projects, including prototypes and research explorations.
 Feel free to explore, contribute, or provide feedback on any of the projects you come across.
 </div>
 </br>
