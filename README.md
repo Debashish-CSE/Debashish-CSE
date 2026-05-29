@@ -61,6 +61,14 @@ Feel free to explore, contribute, or provide feedback on any of the projects you
   <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo"  />
   </a>
   <img width="12" />
+    <img width="12" />
+  <a href="https://scikit-learn.org/stable/documentation.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
+  </a>
+  <img width="12" />
+  <a href="https://pytorch.org/docs/stable/index.html" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo" />
+  </a>
 </div>
 </br>
 
